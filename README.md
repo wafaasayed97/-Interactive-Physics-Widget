@@ -30,7 +30,4 @@ Features a **clean UI design** with smooth drag-and-drop interactions.
 - Dart SDK
 - A working IDE (VS Code / Android Studio)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/physics_playground.git
+
